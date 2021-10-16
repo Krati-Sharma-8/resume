@@ -141,3 +141,7 @@ background-image: linear-gradient(315deg, #9fa4c4 0%, #9e768f 74%);
     font-family: sans-serif;
     color:#3e2221;
 }
+
+.randomclass{
+    color: red;
+}
